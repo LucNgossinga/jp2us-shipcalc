@@ -34,7 +34,7 @@ Just double-click to launch — no installation required.
 
 | Main UI | Allocation Results | EMS Rate Editor |
 |--------|--------------------|-----------------|
-| _Add a few screenshots here later_ |
+| ![img.png](assets/img.png) |![img_1.png](assets/img_1.png)|![img_2.png](assets/img_2.png)|
 
 ---
 
