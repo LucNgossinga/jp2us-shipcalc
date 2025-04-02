@@ -24,7 +24,7 @@ This tool is designed to help buyers who purchase multiple items online from Jap
 
 ## 📥 Download
 
-> 🪟 [Download Windows exe](./dist/JP2US-Shipping-Calculator.exe)
+> 🪟 [Download Windows exe](https://github.com/nathankong97/jp2us-shipcalc/releases/download/v1.0.0/JP2US-Shipping-Calculator.zip)
 
 Just double-click to launch — no installation required.
 
